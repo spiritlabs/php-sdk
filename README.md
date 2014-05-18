@@ -13,6 +13,8 @@ If you notice compliance oversights, please send a patch via pull request.
 
 ## Usage
 
+This SDK is available via composer (https://packagist.org/packages/spiritlabs-api/php-sdk), just add "spiritlabs-api/php-sdk": "dev-master" to your composer.json require list.
+
 For usage details see also examples/ folder.
 
 ### Get available payment methods
